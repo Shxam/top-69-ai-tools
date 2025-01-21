@@ -1,4 +1,4 @@
-# top-50-ai-tools
+# top-50-ai-webaites/tools
  Top AI Tools repository is a curated collection of the most advanced and widely-used artificial intelligence tools, platforms, and services.
 Creating a comprehensive list of all chatbots implemented till now, along with their ratings and categorization into open-source and closed-source, is a monumental task due to the vast number of chatbots available. However, I can provide a curated list of some of the most popular and widely-used chatbots, along with their ratings and categorization.
 
