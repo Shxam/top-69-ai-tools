@@ -10,7 +10,17 @@ Creating a comprehensive list of all chatbots implemented till now, along with t
 - ★★☆☆☆: Fair
 - ★☆☆☆☆: Poor
 
-
+### THIS REPOSITORY CONTAINS DESPCRIPTION ABOUT
+1)Chatbots
+2)Text-to-Game websites
+3)Text-to-Image websites
+4)Text-to-Video Generative Websites
+5)Text-to-movie Generative Websites
+6)Text-to-song Generative Websites
+7)ai editing Generative Websites
+8)trading ai bot
+9)trading analysis websites for both stocks and crypto
+______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 ### Popular Chatbots
 
 #### 1. **ChatGPT**
